@@ -21,8 +21,9 @@
                   aumentar();
                 "
                 variant="primary"
-                ><b-icon icon="cart-plus"></b-icon></b-button
-            ></b-col>
+                ><b-icon icon="cart-plus"></b-icon
+              ></b-button>
+            </b-col>
           </b-row>
         </b-card>
       </b-col>
@@ -52,8 +53,9 @@ export default {
         description: item.description,
         image: item.image,
         price: item.price,
+        cantidad: 1,
       });
-      this.contador++;
+      this.agregar = false;
       localStorage.setItem("lista-agregada", JSON.stringify(this.lista));
     },
   },

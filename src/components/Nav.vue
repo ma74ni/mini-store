@@ -8,7 +8,9 @@
         <b-navbar-nav>
           <b-nav-item :to="{ name: 'Carrito' }"
             ><b-icon icon="cart" scale="2" variant="secondary"></b-icon
-            ><b-badge variant="light">{{ contador }}</b-badge></b-nav-item
+            ><b-badge variant="light">{{
+              $store.state.contador
+            }}</b-badge></b-nav-item
           >
         </b-navbar-nav>
       </b-container>
