@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MEN'S BETTER THAN NAKED&trade; JACKET",
+    "image": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+    "price": 180.0,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+  },
+  {
+    "name": "WOMEN'S BETTER THAN NAKED&trade; JACKET",
+    "image": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+    "price": 170.0,
+    "description": "Exercitationem dolores, animi ipsam minus et, aut suscipit debitis"
+  },
+  {
+    "name": "WOMEN'S SINGLE-TRACK SHOE",
+    "image": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+    "price": 120.0,
+    "description": "expedita ratione ipsa inventore nemo nobis? Quidem repellat omnis"
+  },
+  {
+    "name": "Enduro Boa&reg; Hydration Pack",
+    "image": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+    "price": 70.0,
+    "description": "ex, libero id ad."
+  }
+]
