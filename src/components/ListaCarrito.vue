@@ -5,7 +5,6 @@
       <button class="btn btn-primary" @click="catalogo">Comprar aquí</button>
     </div>
     <div class="my-5" v-if="listaPrevia.length > 0">
-      {{ listaPrevia }}
       <b-card
         no-body
         class="overflow-hidden"
